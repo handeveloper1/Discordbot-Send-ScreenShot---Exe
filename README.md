@@ -18,8 +18,7 @@ Ağırlıklı olarak oyun sekötründe kontrol etme amaçlı olup, bir çok ek �
 
 
 
-[MEDIA=youtube]sxZ6fXRyaCw[/MEDIA]
-
+https://www.youtube.com/watch?v=sxZ6fXRyaCw
 
 
 
@@ -47,23 +46,25 @@ Githubtan indirdikten sonra doğru virustotal ve virusjottiye. Baban exe atsa ta
 
 2-) Botu Sunucuya Ekledik,
 
+
+
+
 Botun Davet Linki : https://discord.com/oauth2/authorize?client_id=1099844176914427925&scope=applications.commands bot&permissions=8 
 
 3-) Bota bir yazı kanalı seçtik,
 
 
 
-1682357326892.png
 
 
 
 İlk sayı kısmı serverin ID'si ikinci kısım Genel isimli yazı kanalının ID'si bize burası lazım. Buradaki sayıları kopyalıyıp,
 
 
+![image](https://user-images.githubusercontent.com/36090819/234077482-854abbd5-b183-44db-8289-3745beb641cc.png)
 
-1682357377136.png
 
-
+![image](https://user-images.githubusercontent.com/36090819/234077482-854abbd5-b183-44db-8289-3745beb641cc.png)
 
 içine yapıştırıyoruz. İşlem bu kadar.
 
