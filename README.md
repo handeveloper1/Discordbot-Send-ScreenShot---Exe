@@ -1,7 +1,7 @@
 # Discordbot
 
 
-
+Video : https://youtu.be/sxZ6fXRyaCw
 
 Ilk olarak botumuzu sunucuya davet edelim
 
