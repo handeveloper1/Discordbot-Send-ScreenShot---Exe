@@ -1,5 +1,7 @@
 # Discordbot
 
+Dışarıda pc başında olmadığımız zamanlarda bilgisayar kümelerini hızlı bir şekilde kontrol etmek için tasarlandı. DEMO olduğu için tek bir komut sorgusu bulunuyor. Sadece ekran görüntüsü gönderir. Aynı channel'da çalışan tüm botlar komutları dinler ve uygular. Aynı botu farklı yazı kanalları oluşturup idlerini girip kullanmanız mümkündür.
+
 
 Video : https://youtu.be/sxZ6fXRyaCw
 
@@ -28,3 +30,5 @@ Sadece işletim sisteminize uygun exeyi atıp çalıştırmak kalıyor...
 $ss  > komutu bize screenshot çekip gönderir. 
 
 Aynı channel id içindeki tüm botlara bu komut gider ve hepsi bize cevap verir.
+
+
