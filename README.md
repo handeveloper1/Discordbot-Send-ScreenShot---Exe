@@ -49,7 +49,7 @@ Githubtan indirdikten sonra doğru virustotal ve virusjottiye. Baban exe atsa ta
 
 
 
-Botun Davet Linki : https://discord.com/oauth2/authorize?client_id=1099844176914427925&scope=applications.commands bot&permissions=8 
+Botun Davet Linki : [https://discord.com/oauth2/authorize?client_id=1099844176914427925&scope=applications.commands bot&permissions=8 ](https://discord.com/oauth2/authorize?client_id=1099844176914427925&scope=applications.commands%20bot&permissions=8)
 
 3-) Bota bir yazı kanalı seçtik,
 
